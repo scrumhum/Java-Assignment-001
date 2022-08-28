@@ -5,5 +5,6 @@ public class JurassicPark {
      **/
     public static void main(String[] args) {
         // Write your program here
+        System.out.println("...\n\"Life, uh,\nfinds a way.\"\n-Ian Malcolm\n..."); //1 print line for whole quote // need help adding author
     }
 }

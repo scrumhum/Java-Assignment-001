@@ -4,6 +4,10 @@ public class InAGalaxyFarFarAway {
      * @param args Command line arguments [The source file path, The target file path, ...]
      **/
     public static void main(String[] args) {
-        // Write your program here
+        // star wars logo
+        System.out.println("...\nA long time ago"); //first n second line
+        System.out.println("in a galaxy far,"); //third line
+        System.out.println("far away....\n..."); //fourth and fifth line,
+
     }
 }
